@@ -1,0 +1,29 @@
+header{
+    background-color: #767f8b;
+    margin-bottom: 20%;
+    padding: 1%;
+}
+.fontsize{
+    margin-right: 28%;
+    height: 20px;
+    width: 5%;
+}
+
+.color{
+    margin-right: 15%;
+    width: 5%;
+    height: 30px
+}
+
+.fontfamily{
+    margin-right: 15%;
+    width: 7%;
+    height: 30px;
+}
+
+.labelStyle{
+    margin-right: 47%;
+    margin-bottom: 2%;
+    font-size: x-large;
+    color: white;
+}
